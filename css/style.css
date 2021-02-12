@@ -1,0 +1,66 @@
+/*HEAD*/
+.navbar img{
+	height: 35px;
+}
+
+/*NAVBAR*/
+.my-navbar{
+	border:0;
+	background :rgba(0, 0, 0, 0.3);
+}
+.my-navbar a{
+	color: #fff;
+}
+.navbar .btn{
+	margin-top: 5px;
+	margin-left: 70px;: 
+	border-radius: 20px;
+	padding-top: -10px;
+	padding-bottom: -10px;
+
+}
+
+.navbar-brand{
+	margin-bottom: 100px;
+}
+
+.jumbotron .display-4{
+	color: white;
+	font-family: Century Gothic;
+	margin-top: 310px;
+	margin-left: -70px;
+}
+
+.jumbotron hr{
+	border-color: #cab493;
+	width: 100px;
+	border-width: 3px;
+	margin-left: -70px;
+}
+
+.jumbotron p {
+	color: white;
+	margin-left: -70px;	
+}
+
+.jumbotron a{
+	margin-left: -70px;
+}
+
+.jumbotron .btn{
+	background-color: #cab493;
+	border: none;
+	border-radius: 10px;
+}
+
+/*CAROUSEL*/
+.carousel-item{
+	height: 100px;
+}
+
+.carousel-item .display-4{
+	margin-top: -470px;
+	margin-left: 10px;
+	color: white;
+}
+

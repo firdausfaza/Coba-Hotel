@@ -1,0 +1,261 @@
+/*HEAD*/
+.navbar img{
+	height: 35px;
+	margin-top: -10px;
+}
+.box{
+	width: 100%;
+	height: 250px;
+	background: url("bootstrap/img/bgrs1.jpg");
+}
+
+.box1{
+	width: 100%;
+	height: 20px;
+	background:white;
+}
+
+/*NAVBAR*/
+.my-navbar{
+	border:0;
+	margin-bottom: -100px;
+	position: fixed;
+}
+.my-navbar a{
+	color: #fff;
+}
+
+.my-navbar a:hover{
+	color: #FFAB34;
+}
+
+
+.navbar-logreg{
+	border:0;
+	background :#000;
+}
+.navbar-logreg a{
+	color: #fff;
+}
+
+.navbar-logreg a:hover{
+	color: #FFAB34;
+}
+
+
+.dropdown-menu a{
+	color: #000;
+}
+
+.navbar .btn{
+	margin-top: 5px;
+	margin-left: 70px;: 
+	border-radius: 20px;
+	padding-top: -10px;
+	padding-bottom: -10px;
+
+}
+
+.navbar .btn:hover{
+	color: #000;
+}
+
+
+
+/*ICON
+i.glyphicon.glyphicon-user{
+  font-size: 10px;
+  color: #cab493;
+}
+
+
+i.glyphicon.glyphicon-log-in{
+  font-size: 10px;
+  color: #cab493;
+}
+
+/*JUMBOTRON
+.jumbotron {
+	/*background-image:url(bootstrap/img/background.jpg); */
+	/*background-size: cover;
+	height: 720px;
+	margin-top: -130px;
+}*/
+
+.jumbotron .display-4{
+	color: white;
+	width: 100%;
+	font-family: Century Gothic;
+	margin-top: 800px;
+	margin-left: -70px;
+}
+
+.jumbotron hr{
+	border-color: #ffb812;
+	width: 100px;
+	border-width: 3px;
+	margin-left: -70px;
+}
+
+.jumbotron p {
+	color: white;
+	margin-left: -70px;	
+}
+
+.jumbotron a{
+	margin-left: -70px;
+}
+
+.jumbotron .btn{
+	border: none;
+	border-radius: 10px;
+}
+
+
+.konten h2{
+	margin-top: 70px;
+	font-family: times new roman;
+	color: white;
+}
+
+.konten p{
+	text-align: justify;
+	font-size: 17px;
+	color: white;
+}
+
+.konten hr{
+	border-color: #cab493;
+	width: 100px;
+	border-width: 4px;
+}
+
+.konten img{
+	height: 340px; 
+}
+
+.atur p{
+	margin-top: -70px;
+}
+
+.konten2 img{
+	width:100%;
+}
+
+.konten2 h1{
+text-align: center;
+  font-family: raleway;
+  margin-bottom: 38px;
+}
+
+.konten3 .container{
+	margin-top: 10px;
+	background-color: #fff;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+}
+
+/*KONTEN2*/
+/*.konten2 .gb1{
+	height: 40%;
+}
+
+.konten2 .gb2{
+	height: 10%;
+}
+*/
+#gallery .container h1{
+  text-align: center;
+  font-family: raleway;
+  margin-bottom: 38px;
+}
+
+#gallery .container .row #dua.col-lg-6.col-md-6.col-sm-6.col-xs-6{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+#gallery .container .row #lima.col-lg-3.col-md-3.col-sm-3.col-xs-3{
+  padding-top :30px;
+}
+
+/*LOGIN*/
+
+.login .container  {
+	width: 30%;
+	margin-top: 150px;
+	background-color: #fff;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+	padding: 40px;
+	border-radius: 10px;
+	color: #000;
+}
+
+
+
+.login .container button{
+	width: 40%;
+	background-color: #FFAB34;
+	border : none;
+}
+.login h4{
+	color: #FFAB34
+}
+
+.login .container a{
+	color: #FFAB34;
+}
+
+.login .container a:hover{
+	color: #000;
+}
+
+.login .container hr{
+	border-color: #000;
+}
+
+/*REGIST*/
+.judul h1{
+	font-family: Coolvetica rg;
+}
+
+.regist .container  {
+	width: 40%;
+	margin-top: 110px;
+	background-color: #fff;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+	padding: 40px;
+	border-radius: 10px;
+	color: #000;
+}
+
+.regist h4{
+	color: #FFAB34
+}
+
+
+.regist .container button{
+	width: 40%;
+	background-color: #FFAB34;
+	border : none;
+}
+
+.regist .container hr{
+	border-color: #000;
+}
+
+
+/*FOOTER*/
+ .footer p{
+	color: #fff;
+}
+
+.footer hr {
+	border-width: 1px;
+	width: 80%;
+	border-color: #fff;
+}
+
+.footer .hak {
+	font-size: 14px;
+}
+
