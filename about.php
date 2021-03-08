@@ -19,7 +19,7 @@
       <h1 class="text-center font-weight-bolder mb-4 ">Meet Our Team</h1>
       <div class="row align-items-center mb-5">
         <div class="col-lg-6 order-2 order-lg-1">
-          <h2 class="font-weight-bold mb-3">Firdaus Aulia Faza</h2>
+          <h2 class="font-weight-bold mb-3">Firdaus Aulia Fazza</h2>
           <h5 class="text-muted mb-2">Nim : L200180042</h5>
           <h5 class="text-muted mb-2">Jurusan : Informatika</h5>
           <h5 class="text-muted mb-2">"The humblest individual exerts some influence, either for good or evil, upon others."</h5>
